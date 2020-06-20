@@ -21,6 +21,7 @@ body {
 	grid-template-rows: minmax(100px, auto);
 	margin: 40px;
 	grid-gap: 10px;
+	/* grid-auto-flow: dense; */
 }
 
 .container .box {
